@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'SnellBT_Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SnellBT_Regular'), url('./SnellBT-Regular.woff') format('woff');
+    }
+
+    @font-face {
+        font-family: 'Gotham_Bold';
+        font-style: normal;
+        font-weight: normal;
+        src: local('Gotham_Bold'), url('./Gotham_Bold.woff') format('woff');
+        } 
+
+        @font-face {
+            font-family: 'GoudySansBlackItalicBT';
+            font-style: normal;
+            font-weight: normal;
+            src: local('GoudySansBlackItalicBT'), url('./GoudySansBlackItalicBT.woff') format('woff');
+            }
+            
+            @font-face {
+                font-family: 'Roboto_Medium';
+                font-style: normal;
+                font-weight: normal;
+                src: local('Roboto_Medium'), url('./Roboto_Medium.woff') format('woff');
+                }
+
+                @font-face {
+                    font-family: 'Roboto_Regular';
+                    font-style: normal;
+                    font-weight: normal;
+                    src: local('Roboto_Regular'), url('./Roboto_Regular.woff') format('woff');
+                    }
+
+                    @font-face {
+                        font-family: 'Sitka-Banner';
+                        font-style: normal;
+                        font-weight: normal;
+                        src: local('Sitka-Banner'), url('./Sitka-Banner.woff') format('woff');
+                        }
